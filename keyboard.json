@@ -1,6 +1,6 @@
 {
     "manufacturer": "KryptNit",
-    "keyboard_name": "Minilp16",
+    "keyboard_name": "MiniLP16",
     "maintainer": "KryptNit",
     "bootloader": "rp2040",
     "build": {
@@ -9,8 +9,8 @@
     "diode_direction": "COL2ROW",
     "encoder": {
         "rotary": [
-            {"pin_a": "GP28", "pin_b": "GP29", "resolution": 4},
-            {"pin_a": "GP2", "pin_b": "GP3", "resolution": 4}
+            {"pin_a": "GP29", "pin_b": "GP28", "resolution": 4},
+            {"pin_a": "GP3", "pin_b": "GP2", "resolution": 4}
         ]
     },
     "features": {

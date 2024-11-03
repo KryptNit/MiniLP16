@@ -1,6 +1,10 @@
 # minilp16
 
-![minilp16](imgur.com image replace me!)
+![image](https://github.com/user-attachments/assets/91fff8ab-cbcc-4718-8507-5945c1806091)
+
+![image](https://github.com/user-attachments/assets/463baaa6-e5f9-4d6b-8593-45f80dedc221)
+
+![image](https://github.com/user-attachments/assets/cd735f3d-9cf9-4716-967b-f2cbcd8bdad1)
 
 *A short description of the keyboard/project*
 
